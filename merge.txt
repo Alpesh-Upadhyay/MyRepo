@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 
 file one in master line1
 
 file two in master line2
+=======
+file in exp
+file one in master line1
+file in exp1
+file two in master line2
+file in exp2
+>>>>>>> experiment
