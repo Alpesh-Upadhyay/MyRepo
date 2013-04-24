@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-file two in experiment
-=======
-file one in master
->>>>>>> master
+file one in master line1
+
+
+file two in master line2
