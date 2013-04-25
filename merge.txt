@@ -1,12 +1,6 @@
-<<<<<<< HEAD
+public static void main
+{
 
-file one in master line1
+System.out.println("this is master file");
 
-file two in master line2
-=======
-file in exp
-file one in master line1
-file in exp1
-file two in master line2
-file in exp2
->>>>>>> experiment
+}
