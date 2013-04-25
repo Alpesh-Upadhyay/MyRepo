@@ -2,5 +2,12 @@ public static void main
 {
 
 System.out.println("this is master file");
+for (i=o;i<n;i++)
+{
+
+System.out.println("testing for experience");
+}
+
+
 
 }
